@@ -1,0 +1,12 @@
+body {
+	font-family: "tahoma";
+	margin: 50px;
+	background-color: grey;
+}
+
+p {
+	font-size: large;
+	text-align: center;
+	padding: 20px;
+  font-color: white;
+}
